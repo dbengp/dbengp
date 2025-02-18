@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">- Java Developer (Sping, Quarkus, JakartaEE) <br>- AI Developer (Azure, GCP)<br>- Cloud Native Developer (Azure, GCP, AWS)</p>
+<p align="left">- Java Developer (Sping, Quarkus) <br>- AI Developer (Azure, GCP)<br>- Cloud Native Developer (Azure, GCP, AWS)</p>
 
 ###
 
